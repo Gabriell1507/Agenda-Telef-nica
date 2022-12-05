@@ -1,0 +1,27 @@
+# ninja log v5
+6	74	6915156832048678	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+0	117	6915156832469593	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+117	253	6915156833792461	Agenda.exe	45299669963c40f7
+9	114	6916932251201789	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+2	117	6916932251254472	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+1	184	6919791982371335	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+8	199	6919791982547053	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+2	76	6919792481443168	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+7	90	6919792481588976	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+2	81	6919792753869053	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+6	85	6919792753909765	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+85	183	6919792754840020	Agenda.exe	45299669963c40f7
+2	74	6919793096464427	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+75	166	6919793097358895	Agenda.exe	45299669963c40f7
+6	81	6919794357345664	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+2	84	6919794357375832	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+1	82	6919794529478672	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+2	85	6919796481563066	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+7	97	6919796481694719	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+2	73	6919797101366157	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+3	77	6919797540616258	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+1	71	6919797630454079	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+2	82	6919799681737909	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+6	91	6919799681814924	CMakeFiles/Agenda.dir/agenda.c.obj	a5b32604a8161c3a
+2	74	6919799905976606	CMakeFiles/Agenda.dir/main.c.obj	60cacb298dbeee46
+75	161	6919799906802928	Agenda.exe	45299669963c40f7
